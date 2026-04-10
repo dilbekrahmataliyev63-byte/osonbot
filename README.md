@@ -1,0 +1,2 @@
+# osonbot
+narxni oson bilish
